@@ -1,3 +1,3 @@
 # PAINEL2
 
-<img src="painel 2.png" alt="" >
+<img src="PAINEL2.png" alt="" >
